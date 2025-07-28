@@ -1,15 +1,6 @@
 {
-  "name": "My Token",
-  "symbol": "MYT",
-  "description": "My custom devnet token",
-  "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
-  "properties": {
-    "files": [
-      {
-        "uri": "https://s3.coinmarketcap.com/static/img/portraits/63351fe59b613d345489037e.png",
-        "type": "image/png"
-      }
-    ],
-    "category": "image"
-  }
+  "name": "EGORKA",
+  "symbol": "EGR",
+  "description": "Description of token",
+  "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png"
 }
